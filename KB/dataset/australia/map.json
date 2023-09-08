@@ -1,0 +1,38 @@
+[
+    {
+        "city1": "WA",
+        "city2": "NT"
+    },
+    {
+        "city1": "WA",
+        "city2": "SA"
+    },
+    {
+        "city1": "NT",
+        "city2": "Q"
+    },
+    {
+        "city1": "NT",
+        "city2": "SA"
+    },
+    {
+        "city1": "SA",
+        "city2": "Q"
+    },
+    {
+        "city1": "SA",
+        "city2": "NSW"
+    },
+    {
+        "city1": "Q",
+        "city2": "NSW"
+    },
+    {
+        "city1": "SA",
+        "city2": "V"
+    },
+    {
+        "city1": "NSW",
+        "city2": "V"
+    }
+]
